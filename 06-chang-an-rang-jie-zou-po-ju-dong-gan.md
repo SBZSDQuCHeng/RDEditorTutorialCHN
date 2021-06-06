@@ -30,3 +30,5 @@ description: 介绍长按拍子的各种设置和注意事项
 
 3. 在长按拍开始的时刻有其他任何的单独拍子，编辑器内的Auto君可能会突然降智，Miss掉一些手动能够完成的长按拍，这个时候手动测试一下玩家能否完成即可。
 
+{% file src=".gitbook/assets/06-long-patterns.rar" %}
+
