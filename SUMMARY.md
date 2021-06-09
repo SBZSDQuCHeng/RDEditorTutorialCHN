@@ -11,5 +11,7 @@
 * [07 给歌曲加上同步歌词](07.md)
 * [08 让角色在歌里聊起来](08.md)
 * [09 轨道移动可大有学问](09.md)
+* [10 配合场景初始化轨道](10-pei-he-chang-jing-chu-shi-hua-gui-dao.md)
+* [11 轨道相关的内置特效](11-gui-dao-xiang-guan-de-nei-zhi-te-xiao.md)
 * [12 多轨并行绝对不能乱](12.md)
 
