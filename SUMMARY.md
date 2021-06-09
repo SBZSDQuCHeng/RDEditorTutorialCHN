@@ -8,5 +8,6 @@
 * [05 二拍子一定要加护士](05.md)
 * [06 长按让节奏颇具动感](06.md)
 * [07 给歌曲加上同步歌词](07-gei-ge-qu-jia-shang-tong-bu-ge-ci.md)
+* [08 让角色在歌里聊起来](08-rang-jiao-se-zai-ge-li-liao-qi-lai.md)
 * [12 多轨并行绝对不能乱](12.md)
 
