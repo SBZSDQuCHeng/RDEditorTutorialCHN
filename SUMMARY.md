@@ -14,4 +14,5 @@
 * [10 配合场景初始化轨道](10-pei-he-chang-jing-chu-shi-hua-gui-dao.md)
 * [11 轨道相关的内置特效](11-gui-dao-xiang-guan-de-nei-zhi-te-xiao.md)
 * [12 多轨并行绝对不能乱](12.md)
+* [13 循规蹈矩或自创节奏](13.md)
 
