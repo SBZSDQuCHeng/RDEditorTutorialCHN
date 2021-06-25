@@ -15,4 +15,5 @@
 * [11 轨道相关的内置特效](11-gui-dao-xiang-guan-de-nei-zhi-te-xiao.md)
 * [12 多轨并行绝对不能乱](12.md)
 * [13 循规蹈矩或自创节奏](13.md)
+* [14 为何总被说读谱不能](14-wei-he-zong-bei-shuo-du-pu-bu-neng.md)
 
