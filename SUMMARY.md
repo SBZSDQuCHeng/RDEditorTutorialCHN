@@ -16,4 +16,5 @@
 * [12 多轨并行绝对不能乱](12.md)
 * [13 循规蹈矩或自创节奏](13.md)
 * [14 为何总被说读谱不能](14-wei-he-zong-bei-shuo-du-pu-bu-neng.md)
+* [附录1 物件列表一览](fu-lu-1-wu-jian-lie-biao-yi-lan.md)
 
