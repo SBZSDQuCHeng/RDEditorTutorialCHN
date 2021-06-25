@@ -1,7 +1,7 @@
 # Table of contents
 
 * [序](README.md)
-* [格式索引](index_of_form.md)
+* [格式索引](index01.md)
 * [01 自制谱从导入到导出](01.md)
 * [02 创建游戏内置的角色](02.md)
 * [03 工作区里面花式操作](03.md)
@@ -12,9 +12,9 @@
 * [08 让角色在歌里聊起来](08.md)
 * [09 轨道移动可大有学问](09.md)
 * [10 配合场景初始化轨道](10-pei-he-chang-jing-chu-shi-hua-gui-dao.md)
-* [11 轨道相关的内置特效](11-gui-dao-xiang-guan-de-nei-zhi-te-xiao.md)
+* [11 轨道相关的内置特效](11.md)
 * [12 多轨并行绝对不能乱](12.md)
 * [13 循规蹈矩或自创节奏](13.md)
-* [14 为何总被说读谱不能](14-wei-he-zong-bei-shuo-du-pu-bu-neng.md)
-* [附录1 物件列表一览](fu-lu-1-wu-jian-lie-biao-yi-lan.md)
+* [14 为何总被说读谱不能](14.md)
+* [附录1 物件列表一览](ex01.md)
 
