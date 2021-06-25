@@ -17,5 +17,6 @@
 * [13 循规蹈矩或自创节奏](13.md)
 * [14 为何总被说读谱不能](14.md)
 * [15 如何让音效融入音乐](15-ru-he-rang-yin-xiao-rong-ru-yin-le.md)
+* [16 房间究竟该如何理解](16-fang-jian-jiu-jing-gai-ru-he-li-jie.md)
 * [附录1 物件列表一览](ex01.md)
 
