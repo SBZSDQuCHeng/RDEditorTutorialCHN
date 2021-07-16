@@ -12,7 +12,7 @@ description: 节奏医生中文编辑器教程
 
 ### 特别鸣谢：
 
-[@Winkle雪线](https://space.bilibili.com/2198423/)，[@mfgujhgh](https://space.bilibili.com/1369651)，[@sjx233\_](https://space.bilibili.com/36068407)，对本教程的倾情帮助与支持。
+[@Winkle雪线](https://space.bilibili.com/2198423/)，[@mfgujhgh](https://space.bilibili.com/1369651)，[@sjx233\_](https://space.bilibili.com/36068407)，[@卢毅](https://space.bilibili.com/26101629)，对本教程的倾情帮助与支持。
 
 感谢《节奏医生》全体制作组为我们呈现了如此精彩的游戏，并在我们撰稿的过程中提供大量的帮助。
 
