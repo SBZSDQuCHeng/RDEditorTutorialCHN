@@ -6,13 +6,13 @@ description: 节奏医生中文编辑器教程
 
 本电子书将尽量囊括《节奏医生》编辑器的界面介绍，功能介绍，和使用技巧。由于编辑器本身功能比较琐碎，总结文案前后花费的时间很长，制作不易。欢迎每一位想要做出属于自己的良谱的玩家收藏网页时不时点进来看个更新。我们尽量控制了每一章节的内容量，所以虽然章节数很多但阅读起来并不会很累。
 
-本教程由B站[@丘露帆](https://space.bilibili.com/365306801)，[@吾夜犹明](https://space.bilibili.com/29219948)，[@山不转水到渠成](https://space.bilibili.com/4870582)，[@喜欢精灵宝可梦的黄黄](https://space.bilibili.com/589687399)，[@IcedDog\_冷狗](https://space.bilibili.com/357428794)，倾情提供。未经授权不得以图文，视频等形式转载，也不得以本教程内素材进行二次创作。
+本教程由B站[@丘露帆](https://space.bilibili.com/365306801)，[@吾夜犹明](https://space.bilibili.com/29219948)，[@山不转水到渠成](https://space.bilibili.com/4870582)，[@喜欢精灵宝可梦的黄黄](https://space.bilibili.com/589687399)，倾情提供。未经授权不得以图文，视频等形式转载，也不得以本教程内素材进行二次创作。
 
 由于节奏医生本体目前还处于EA阶段，编辑器的功能也在不断完善和修复，所以本教程的内容也是不断跟进的。后续我们还会更新视频版的教程，敬请期待！（发出咕咕的声音
 
 ### 特别鸣谢：
 
-[@Winkle雪线](https://space.bilibili.com/2198423/)，[@mfgujhgh](https://space.bilibili.com/1369651)，[@sjx233\_](https://space.bilibili.com/36068407)，[@卢毅](https://space.bilibili.com/26101629)，对本教程的倾情帮助与支持。
+[@Winkle雪线](https://space.bilibili.com/2198423/)，[@mfgujhgh](https://space.bilibili.com/1369651)，[@sjx233\_](https://space.bilibili.com/36068407)，[@卢毅](https://space.bilibili.com/26101629)，[@IcedDog\_冷狗](https://space.bilibili.com/357428794)，对本教程的倾情帮助与支持。
 
 感谢《节奏医生》全体制作组为我们呈现了如此精彩的游戏，并在我们撰稿的过程中提供大量的帮助。
 
