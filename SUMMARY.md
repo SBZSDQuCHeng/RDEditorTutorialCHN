@@ -35,4 +35,5 @@
 * [附录2 预设特效一览](ex02.md)
 * [附录3 公开的内置音频](ex03.md)
 * [附录4 Discord Peer Review](ex04.md)
+* [附录5 手术](ex05.md)
 
