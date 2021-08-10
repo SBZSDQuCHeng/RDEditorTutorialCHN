@@ -1,4 +1,8 @@
-# 附录6 r19使用教程
+---
+description: 感谢@mfgujhgh完成的汉化
+---
+
+# 附录6 r19使用教程汉化
 
 [原文地址](https://hackmd.io/@WillFlame/rybdnRtwu) 原作者：WillFlame
 

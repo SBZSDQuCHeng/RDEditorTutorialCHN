@@ -36,5 +36,5 @@
 * [附录3 公开的内置音频](ex03.md)
 * [附录4 Discord Peer Review](ex04.md)
 * [附录5 手术](ex05.md)
-* [附录6 r19使用教程](fu-lu-6-r19-shi-yong-jiao-cheng.md)
+* [附录6 r19使用教程汉化](fu-lu-6-r19-shi-yong-jiao-cheng.md)
 
