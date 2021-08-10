@@ -1,0 +1,532 @@
+Filename, Offset, Volume
+sndRankAppear, 0, 1
+sndMistakeBig, 0, 1
+sndMistakeSmall, 0, 1
+sndMistakeSmall2, 0, 1
+sndMistakeSmall3, 0, 0.9
+sndBossVirusDie, 0, 1
+sndBossDisappear, 0, 1
+sndDrumroll, 0.05, 0.6
+sndScribble, 0, 1
+sndKick, 0.025, 1
+sndKickEcho, 0.04, 1
+sndClapHit, 0.036, 0.9
+sndReverbClap, 0.026, 1
+sndClapHitP2, 0.027, 1
+sndClapHitMassivePreEcho, 0.93, 1
+sndClapHitMassivePreEchoCut1, 0.992, 1
+sndClapHitMassivePreEchoCut2, 0.992, 1
+sndClapHitEcho, 0.116, 1
+sndBassExp, 0.01, 0.6
+sndBassExplosionR, 0.08, 1
+sndBassExplosionL, 0.08, 0.6
+sndExplodeNew1, 0, 1
+sndExplodeNewv1_1, 0, 1
+sndExplodeNew2, 0, 1
+sndExplodeNewv1_2, 0, 1
+sndExplodeNew3, 0, 1
+sndExplodeNewv1_3, 0, 1
+sndJyiGet, 0.1, 1.5
+sndJyiSet, 0.2, 1.5
+sndJyiGo, 0.07, 1
+sndJyiReady, 0.12, 1
+sndJyiRea, 0.06, 0.7
+sndJyiDy, 0.06, 0.7
+sndJyiAnd, 0, 0.5
+sndJyiStop, 0.196, 0.5
+sndCount1, 0, 1
+sndCount2, 0, 1
+sndCount3, 0.13, 1
+sndCount4, 0.1, 2
+sndCount5, 0, 1
+sndCount6, 0.02, 1
+sndCount7, 0.03, 1
+sndSizzle, 0.026, 1
+sndClickLow, 0.05, 0.5
+sndClickMid, 0.05, 0.5
+sndClickHi, 0.05, 1
+sndShaker, 0.035, 1
+sndShakerHi, 0.08, 3
+sndStick, 0.029, 1
+sndTypewriter, 0.062, 1
+sndRide1, 0.1, 0.6
+sndRide2, 0.1, 1
+sndChuck, 0, 1
+sndHammer, 0.026, 0.6
+sndClosedHat, 0.026, 2
+sndPunch, 0.073, 0.6
+sndTaikoRim, 0, 1
+sndTsuzumi, 0, 1
+sndTaikoOpen, 0, 0.6
+sndDjembeSlap, 0, 1
+sndUdu, 0, 1
+sndSteinway, 0.07, 1
+sndOrientalTechno, 0.02, 0.7
+sndOrientalTechnodown, 0.02, 0.7
+sndOrientalDubstep, 0.03, 0.6
+sndTutorialNoPrebar, 0, 1
+sndLesMisBar1, 0.05, 0.8
+sndLesMisBar39, 0.05, 0.8
+sndUnreachable, 0, 1
+sndBarbra, 0.025, 0.7
+sndTutorial, 0, 1
+sndBarbraC, 0.025, 1
+sndIntimate, 0.05, 1.4
+sndSupraventricular88, 0.05, 1
+sndLounge, 0.05, 1
+sndMurmurs, 0.026, 1
+sndSteinway, 0.06, 1
+sndOrientalInsomniac1, 0.045, 1
+sndOrientalInsomniac2, 0.045, 1
+sndOrientalInsomniac3, 0.045, 1
+sndOrientalInsomniacHardRep, 0.032, 0.6
+sndGreenlightInsomniac, 0.032, 0.6
+sndOrientalInsomniacHardNoRep, 0.032, 0.6
+snd8DelayPart1, 0.05, 1
+snd8DelayPart2Easy, 0.05, 1
+snd8DelayPart2Hard, 0.05, 1
+sndPower, 0.05, 1
+sndIntro2, 0.02, 1
+sndLeanOn, 0.07, 1
+sndStarboy, 0.024, 0.6
+sndOpeningCredits, 0.04, 0.6
+gongxirag2, 0.027, 2
+boss2_ez, 0, 0.6
+boss2ez_booth.ogg, 0, 0.6
+sndOrientalInsomniac, 0, 1
+sndOrientalInsomniac1, 0, 1
+sndOrientalInsomniac2, 0, 1
+sndOrientalInsomniacHardRepOld, 0, 1
+sndSanHolo, 0, 1
+sndUnreachableOri, 0, 1
+Buzzer, 0, 1
+DeepWobble, 0, 1
+bassdrum2, 0, 1
+beeeetest, 0, 1
+beeeetest2, 0, 1
+fart, 0, 1
+melody1, 0, 1
+note, 0, 1
+osc1, 0, 1
+osc2, 0, 1
+sndApplause, 0, 1
+sndBassDrum, 0, 1
+sndBeepHigh, 0.025, 1
+sndBeepLow, 0.025, 1
+sndBossStageText, 0, 1
+sndBwaah, 0, 1
+sndCalibrationBeep, 0, 1
+sndChargedLaser, 0, 1
+sndClap2, 0, 1
+sndClap3, 0, 1
+sndClapHitMassivePreecho, 0, 1
+sndClapHitMassivePreechoCut1, 0, 1
+sndClapHitMassivePreechoCut2, 0, 1
+sndClapHitPreEcho, 0, 1
+sndClaves, 0, 1
+sndCoplandDrum, 0, 1
+sndCorridorScroll, 0, 1
+sndCount8, 0, 1
+sndCrowdCheer, 0, 1
+sndCymbalSwish, 0, 1
+sndEchoClap, 0, 1
+sndEchoClapold, 0, 1
+sndExplodeNewv2_2, 0, 1
+sndExplodeNewv2_3, 0, 1
+sndFrog, 0, 1
+sndGlockE, 0, 1
+sndHammerold, 0, 1
+sndIntro, 0, 1
+sndKickEcho2, 0, 1
+sndKickMassive, 0, 1
+sndKickTest, 0, 1
+sndKickTest2, 0, 1
+sndKnuckles, 0, 1
+sndLowHealthDA, 0, 1
+sndMelonMorse, 0, 1
+sndMenuButtonPush, 0, 1
+sndMenuButtonPush2, 0, 1
+sndMenuButtonpush2, 0, 1
+sndMenuPop, 0, 1
+sndMenuPop2, 0, 1
+sndMenuPopPrev, 0, 1
+sndMenuSelect, 0, 1
+sndMenuSelectunedit, 0, 1
+sndMenuSquelch, 0, 1
+sndMissBig, 0, 1
+sndMissSmall, 0, 1
+sndNoise, 0, 1
+sndNoiseMed, 0, 1
+sndOah, 0, 1
+sndPing, 0, 1
+sndPoliticianHurryUp0, 0, 1
+sndPoliticianHurryUp1, 0, 1
+sndPoliticianHurryUp2, 0, 1
+sndPoliticianHurryUp3, 0, 1
+sndPoliticianHurryUp4, 0, 1
+sndRankAppear, 0, 1
+sndRide3, 0, 1
+sndScribble, 0, 1
+sndShakerEgg, 0, 1
+sndShakerEggHi, 0, 1
+sndShock, 0, 1
+sndSnap, 0, 1
+sndSquare, 0, 1
+sndSquare1, 0, 1
+sndSquare2, 0, 1
+sndSquare3, 0, 1
+sndSquare4, 0, 1
+sndSwitch, 0, 1
+sndTapeSnare, 0, 1
+sndTapeSnarePreEcho, 0, 1
+sndWoodblockLong, 0, 1
+sndWoodblockShort, 0, 1
+sndLowHealthEB, 0, 1
+sndClickEcho, 0, 0
+sndLowHealthB, 0, 0
+sndLowHealthCG, 0, 0
+sndLowHealthCSharpA, 0, 0
+sndLowHealthE, 0, 0
+sndNone, 0, 0
+sndIan - And, 0, 1
+sndIan - And_v2, 0, 1
+sndIan - ChineseFang, 0.072, 1
+sndIan - ChineseShou, 0.048, 1
+sndIan - Count1, 0, 0
+sndIan - Count2, 0, 0
+sndIan - Count3, 0, 0
+sndIan - Count4, 0, 0
+sndIan - Count5, 0, 0
+sndIan - Count6, 0, 0
+sndIan - Count7, 0, 0
+sndIan - CountCalm1, 0, 0
+sndIan - CountCalm2, 0, 0
+sndIan - CountCalm3, 0, 0
+sndIan - CountCalm4, 0, 0
+sndIan - CountCalm5, 0, 0
+sndIan - CountCalm6, 0, 0
+sndIan - CountCalm7, 0, 0
+sndIan - CountEnglish1, 0, 1
+sndIan - CountEnglish10, 0, 1
+sndIan - CountEnglish2, 0, 1
+sndIan - CountEnglish3, 0.111, 1
+sndIan - CountEnglish4, 0, 1
+sndIan - CountEnglish5, 0, 1
+sndIan - CountEnglish6, 0, 1
+sndIan - CountEnglish7, 0, 1
+sndIan - CountEnglish8, 0, 1
+sndIan - CountEnglish9, 0, 1
+sndIan - CountEnglishCalm1, 0, 1
+sndIan - CountEnglishCalm10, 0, 1
+sndIan - CountEnglishCalm2, 0, 1
+sndIan - CountEnglishCalm3, 0, 1
+sndIan - CountEnglishCalm4, 0, 1
+sndIan - CountEnglishCalm5, 0, 1
+sndIan - CountEnglishCalm6, 0, 1
+sndIan - CountEnglishCalm7, 0, 1
+sndIan - CountEnglishCalm8, 0, 1
+sndIan - CountEnglishCalm9, 0, 1
+sndIan - CountEnglishFast1, 0, 1
+sndIan - CountEnglishFast2, 0, 1
+sndIan - CountEnglishFast3, 0, 1
+sndIan - CountEnglishFast4, 0, 1
+sndIan - CountEnglishFast5, 0, 1
+sndIan - CountEnglishFast6, 0.068, 1
+sndIan - CountEnglishFast7, 0.088, 1
+sndIan - CountFast1, 0, 0
+sndIan - CountFast2, 0, 0
+sndIan - CountFast3, 0, 0
+sndIan - CountFast4, 0, 0
+sndIan - CountFast5, 0, 0
+sndIan - CountFast6, 0, 0
+sndIan - CountFast7, 0, 0
+sndIan - CountSlow1, 0, 0
+sndIan - CountSlow2, 0, 0
+sndIan - CountSlow3, 0, 0
+sndIan - CountSlow4, 0, 0
+sndIan - CountSlow5, 0, 0
+sndIan - CountSlow6, 0, 0
+sndIan - CountSlow7, 0, 0
+sndIan - CountSlower1, 0, 1
+sndIan - CountSlower2, 0, 1
+sndIan - CountSlower3, 0.084, 1
+sndIan - CountSlower4, 0.127, 1
+sndIan - CountSlower5, 0, 1
+sndIan - CountSlower6, 0.106, 1
+sndIan - CountSlower7, 0.189, 1
+sndIan - FastAnd, 0, 0
+sndIan - FastKay, 0, 0
+sndIan - FastO, 0, 0
+sndIan - FastSwitch, 0, 0
+sndIan - GoodToGo, 0, 1
+sndIan - Great, 0, 1
+sndIan - Great2, 0, 0
+sndIan - Great3, 0, 0
+sndIan - Heh, 0, 1
+sndIan - Hmm, 0, 1
+sndIan - Huh, 0, 1
+sndIan - kay, 0, 0
+sndIan - LetsDoThis, 0, 1
+sndIan - Listen, 0, 1
+sndIan - O, 0, 0
+sndIan - OneshotCalmDy, 0, 0
+sndIan - OneshotCalmGet, 0, 0
+sndIan - OneshotCalmGo, 0, 0
+sndIan - OneshotCalmRea, 0, 0
+sndIan - OneshotCalmSet, 0, 0
+sndIan - OneshotNormalDy, 0, 0
+sndIan - OneshotNormalGet, 0, 0
+sndIan - OneshotNormalGo, 0, 0
+sndIan - OneshotNormalRea, 0, 0
+sndIan - OneshotNormalSet, 0, 0
+sndIan - OneshotSlowDy, 0, 0
+sndIan - OneshotSlowGet, 0, 0
+sndIan - OneshotSlowGo, 0, 0
+sndIan - OneshotSlowRea, 0, 0
+sndIan - OneshotSlowSet, 0, 0
+sndIan - Player1, 0, 1
+sndIan - Player2, 0, 1
+sndIan - SadOkay, 0, 1
+sndIan - SighUgh, 0, 1
+sndIan - Stop, 0, 0
+sndIan - Switch, 0, 0
+sndIan - ThatsGood, 0, 1
+sndIan - TryAgain, 0, 1
+sndIan - Uhh, 0, 1
+sndIan - Up, 0, 1
+sndIan - Watch, 0.076, 1
+sndIan - Well, 0, 1
+sndIan - What, 0, 1
+sndIan - YourTurn, 0.064, 1
+sndJyiDouble, 0, 0
+sndJyiEnglish1, 0, 0
+sndJyiEnglish10, 0, 0
+sndJyiEnglish2, 0, 0
+sndJyiEnglish3, 0, 0
+sndJyiEnglish4, 0, 0
+sndJyiEnglish5, 0, 0
+sndJyiEnglish6, 0, 0
+sndJyiEnglish7, 0, 0
+sndJyiEnglish8, 0, 0
+sndJyiEnglish9, 0, 0
+sndJyiGet_v2, 0, 0
+sndJyiGo_v3, 0, 0
+sndJyiTime, 0, 0
+sndJyiTime_v2, 0, 0
+sndJyi - AndStop_And, 0.019, 2
+sndJyi - AndStop_AndLong, 0.021, 1
+sndJyi - AndStop_AndStop, 0.31, 2
+sndJyi - AndStop_AndStop_2, 0.289, 1
+sndJyi - AndStop_AndStop_3, 0.259, 1
+sndJyi - AndStop_And_2, 0.03, 1
+sndJyi - AndStop_Stop, 0.193, 1.5
+sndJyi - AndSwitch_AndSwitch, 0.296, 1
+sndJyi - AndSwitch_AndSwitch_2, 0.296, 1
+sndJyi - AndSwitch_AndSwitch_3, 0.313, 1
+sndJyi - AndSwitch_Switch, 0.224, 1
+sndJyi - ChineseCountCalm1, 0, 1
+sndJyi - ChineseCountCalm2, 0.031, 1
+sndJyi - ChineseCountCalm3, 0.194, 1
+sndJyi - ChineseCountCalm4, 0.216, 1
+sndJyi - ChineseCountCalm5, 0, 1
+sndJyi - ChineseCountCalm6, 0.355, 1
+sndJyi - ChineseCountCalm7, 0.384, 1
+sndJyi - ChineseCountTired0, 0, 1
+sndJyi - ChineseCountTired1, 0, 1
+sndJyi - ChineseCountTired2, 0.016, 1
+sndJyi - ChineseCountTired3, 0.132, 1
+sndJyi - ChineseCountTired4, 0.202, 1
+sndJyi - ChineseCountTired5, 0, 1
+sndJyi - ChineseCountTired6, 0, 1
+sndJyi - ChineseCountTired7, 0.14, 1
+sndJyi - ChineseCountVTired0, 0, 1
+sndJyi - ChineseCountVTired1, 0.023, 1
+sndJyi - ChineseCountVTired2, 0, 1
+sndJyi - ChineseCountVTired3, 0.161, 1
+sndJyi - ChineseCountVTired4, 0.143, 1
+sndJyi - ChineseCountVTired5, 0, 1
+sndJyi - ChineseCountVTired6, 0, 1
+sndJyi - ChineseCountVTired7, 0.153, 1
+sndJyi - CountEnglish1, 0.03, 3
+sndJyi - CountEnglish10, 0, 1
+sndJyi - CountEnglish2, 0.01, 1
+sndJyi - CountEnglish3, 0, 1
+sndJyi - CountEnglish4, 0.94, 1
+sndJyi - CountEnglish4_2, 0.093, 1
+sndJyi - CountEnglish5, 0.1, 1
+sndJyi - CountEnglish6, 0.116, 1
+sndJyi - CountEnglish7, 0.126, 1
+sndJyi - CountEnglish8, 0, 1
+sndJyi - CountEnglish9, 0.084, 1
+sndJyi - DownCalm, 0, 1
+sndJyi - DownCalm_2, 0, 1
+sndJyi - DownFast, 0, 1
+sndJyi - Down_2, 0, 1
+sndJyi - Down_falling, 0, 1
+sndJyi - Down_falling_2, 0, 1
+sndJyi - GoodJob, 0, 1
+sndJyi - GoodJob_2, 0, 1
+sndJyi - JapaneseCount1, 0, 1
+sndJyi - JapaneseCount10, 0, 1
+sndJyi - JapaneseCount2, 0.057, 1
+sndJyi - JapaneseCount3, 0.135, 1
+sndJyi - JapaneseCount4, 0.103, 1
+sndJyi - JapaneseCount5, 0.128, 1
+sndJyi - JapaneseCount6, 0, 1
+sndJyi - JapaneseCount7, 0.065, 1
+sndJyi - JapaneseCount8, 0.115, 1
+sndJyi - JapaneseCount9, 0, 1
+sndJyi - Listen, 0, 1
+sndJyi - ListenSlow, 0, 1
+sndJyi - ListenSlow_2, 0, 1
+sndJyi - Play, 0, 1
+sndJyi - RDDT_Double, 0, 1
+sndJyi - RDDT_Double_2, 0, 1
+sndJyi - RDDT_Dy, 0, 1
+sndJyi - RDDT_Dy_2, 0, 1
+sndJyi - RDDT_Go, 0.004, 1
+sndJyi - RDDT_Go_2, 0.032, 1
+sndJyi - RDDT_Go_3, 0.043, 1
+sndJyi - RDDT_Rea, 0.076, 1
+sndJyi - RDDT_Rea_2, 0.8, 1
+sndJyi - RDDT_Time, 0, 1
+sndJyi - RDDT_Time_2, 0, 1
+sndJyi - RDGS_Tired_Dy, 0, 1
+sndJyi - RDGS_Tired_Get, 0, 1
+sndJyi - RDGS_Tired_Go, 0, 1
+sndJyi - RDGS_Tired_Rea, 0.13, 1
+sndJyi - RDGS_Tired_Set, 0.24, 1
+sndJyi - RankA, 0, 1
+sndJyi - RankB, 0, 1
+sndJyi - RankC, 0.175, 1
+sndJyi - RankD, 0, 1
+sndJyi - RankF, 0, 1
+sndJyi - RankS, 0, 1
+sndJyi - RankSPlus, 0, 1
+sndJyi - Ready_breathy, 0.152, 1
+sndJyi - Up, 0, 1
+sndJyi - UpCalm, 0, 1
+sndJyi - UpCalm_2, 0, 1
+sndJyi - UpFast, 0, 1
+sndJyi - UpFast_2, 0, 1
+sndJyi - Up_2, 0, 1
+sndJyi - Up_3, 0, 1
+sndJyi - Up_4, 0, 1
+sndJyi - Watch, 0, 1
+sndJyi - Watch_2, 0, 1
+sndJyi - down, 0, 1
+sndClosedHatRoland, 0, 0
+sndClosedHatRoland2, 0, 0
+sndOpenHatRoland, 0, 0
+sndOpenHatRoland2, 0, 0
+sndSnareRoland, 0, 0
+sndIan - AndStop_Stop, 0.175, 1
+sndIan - ChineseCount1, 0, 1
+sndIan - ChineseCount2, 0, 1
+sndIan - ChineseCount3, 0.073, 1
+sndIan - ChineseCount4, 0.075, 1
+sndIan - ChineseCount5, 0, 1
+sndIan - ChineseCount6, 0, 1
+sndIan - ChineseCount7, 0, 1
+sndIan - ChineseCountCalm1, 0, 1
+sndIan - ChineseCountCalm2, 0.016, 1
+sndIan - ChineseCountCalm3, 0.099, 1
+sndIan - ChineseCountCalm4, 0.187, 1
+sndIan - ChineseCountCalm5, 0.057, 1
+sndIan - ChineseCountCalm6, 0.051, 1
+sndIan - ChineseCountCalm7, 0.089, 1
+sndIan - ChineseCountFast1, 0, 1
+sndIan - ChineseCountFast2, 0, 1
+sndIan - ChineseCountFast3, 0.1, 1
+sndIan - ChineseCountFast4, 0, 1
+sndIan - ChineseCountFast5, 0, 1
+sndIan - ChineseCountFast6, 0, 1
+sndIan - ChineseCountFast7, 0.04, 1
+sndIan - ChineseCountSlow1, 0, 1
+sndIan - ChineseCountSlow2, 0.014, 1
+sndIan - ChineseCountSlow3, 0.162, 1
+sndIan - ChineseCountSlow4, 0.126, 1
+sndIan - ChineseCountSlow5, 0, 1
+sndIan - ChineseCountSlow6, 0.067, 1
+sndIan - ChineseCountSlow7, 0.137, 1
+sndIan - OKAS_Fast_And, 0, 1
+sndIan - OKAS_Fast_Kay, 0, 1
+sndIan - OKAS_Fast_O, 0, 1
+sndIan - OKAS_Fast_Switch, 0.166, 1
+sndIan - OKAS_kay, 0, 1
+sndIan - OKAS_O, 0, 1
+sndIan - OKAS_Switch, 0.214, 1
+sndIan - RDGS_Calm_Dy, 0, 0
+sndIan - RDGS_Calm_Get, 0.086, 0
+sndIan - RDGS_Calm_Go, 0.03, 0
+sndIan - RDGS_Calm_Rea, 0.073, 0
+sndIan - RDGS_Calm_Set, 0.135, 0
+sndIan - RDGS_Dy, 0.053, 1
+sndIan - RDGS_Get, 0.061, 1
+sndIan - RDGS_Go, 0.057, 0.6
+sndIan - RDGS_Rea, 0.087, 0.6
+sndIan - RDGS_Set, 0.135, 1
+sndIan - RDGS_Slow_Go, 0.111, 0
+sndJyi - ChineseCount1, 0, 1
+sndJyi - ChineseCount2, 0, 1
+sndJyi - ChineseCount3, 0.13, 1
+sndJyi - ChineseCount4, 0.1, 2
+sndJyi - ChineseCount5, 0, 1
+sndJyi - ChineseCount6, 0.02, 1
+sndJyi - ChineseCount7, 0.03, 1
+sndJyi - AndStop_AndStop_r2, 0.289, 1
+sndJyi - AndStop_AndStop_r3, 0.259, 1
+sndJyi - AndStop_And_v2, 0, 0
+sndJyi - AndStop_And_vLong, 0, 0
+sndJyi - RDGS_Dy, 0.06, 0.7
+sndJyi - RDGS_Get, 0.1, 1.5
+sndJyi - RDGS_Get_v2, 0, 1
+sndJyi - RDGS_Go, 0.07, 1.5
+sndJyi - RDGS_Go_v2, 0, 1
+sndJyi - RDGS_Rea, 0.06, 0.7
+sndJyi - RDGS_Ready, 0.12, 1
+sndJyi - RDGS_Set, 0.13, 0.7
+sndJyi - RDGS_Dy_verTired, 0, 1
+sndJyi - RDGS_Get_verTired, 0, 1
+sndJyi - RDGS_Go_verTired, 0, 1
+sndJyi - RDGS_Rea_verTired, 0.13, 1
+sndJyi - RDGS_Set_verTired, 0.24, 1
+sndJyi - RDDT_Double_r2, 0, 1
+sndJyi - RDDT_Dy_r2, 0, 1
+sndJyi - RDDT_Go_r2, 0.032, 1
+sndJyi - RDDT_Go_r3, 0.043, 1
+sndJyi - RDDT_Rea_r2, 0, 0
+sndJyi - RDDT_Time_r2, 0, 1
+old_sndJyiAnd, 0, 0
+old_sndJyiDy, 0, 0
+old_sndJyiEnglish1, 0, 0
+old_sndJyiEnglish10, 0, 0
+old_sndJyiEnglish2, 0, 0
+old_sndJyiEnglish3, 0, 0
+old_sndJyiEnglish4, 0, 0
+old_sndJyiEnglish5, 0, 0
+old_sndJyiEnglish6, 0, 0
+old_sndJyiEnglish7, 0, 0
+old_sndJyiEnglish8, 0, 0
+old_sndJyiEnglish9, 0, 0
+old_sndJyiGet, 0, 0
+old_sndJyiGo, 0, 0
+old_sndJyiRea, 0, 0
+old_sndJyiSet, 0, 0
+sndJyi - AndStop_And_ver2, 0.03, 1
+sndJyi - AndStop_And_verLong, 0.021, 1
+sndJyi - RDGS_Get_ver2, 0, 0
+sndJyi - RDGS_Go_ver2, 0, 0
+sndIan - Great_ver2, 0, 1
+sndIan - Great_ver3, 0, 1
+sndIan - RDGS_Dy_verCalm, 0, 1
+sndIan - RDGS_Get_verCalm, 0.086, 1
+sndIan - RDGS_Go_verCalm, 0.03, 1
+sndIan - RDGS_Rea_verCalm, 0.073, 1
+sndIan - RDGS_Set_verCalm, 0.135, 1
+sndIan - RDGS_Go_verSlow, 0.111, 1
+sndTutorialold, 0, 0
+sndIan - And_ver2, 0, 0
+sndTutorialNoPrebar_old, 0, 0
+sndKickCrisp, 0, 0
+sndKickShort, 0, 0
