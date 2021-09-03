@@ -35,20 +35,20 @@
 * [15 如何让音效融入音乐](zheng-ti-de-jie-zou-she-ji-si-lu/15.md)
 * [22 考虑一下无障碍模式](zheng-ti-de-jie-zou-she-ji-si-lu/22.md)
 
-## 房间特效和镜头特效 <a id="chapter6"></a>
+## 房间，镜头以及画面 <a id="chapter6"></a>
 
 * [16 房间究竟该如何理解](chapter6/16.md)
 * [17 房间和镜头移动之１](chapter6/17.md)
 * [18 房间和镜头移动之２](chapter6/18.md)
 * [19 房间和镜头移动之３](chapter6/19.md)
+* [21 镜　　　　　　　厅](chapter6/21.md)
+* [23 干扰图可以如何设计](chapter6/23.md)
+* [25 像咖啡之歌一样乱窜](chapter6/25.md)
 
 ## 还有些更深入的功能 <a id="chapter7"></a>
 
 * [20 制作一个自己的人物](chapter7/20.md)
-* [21 镜　　　　　　　厅](chapter7/21.md)
-* [23 干扰图可以如何设计](chapter7/23.md)
-* [24 如何整理一大堆事件](chapter7/24.md)
-* [25 像咖啡之歌一样乱窜](chapter7/25.md)
+* [24 整理事件和使用标签](chapter7/24.md)
 * [26 零零碎碎的事件拾遗](chapter7/26.md)
 * [27 常用自定义方法参考](chapter7/27.md)
 
