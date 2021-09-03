@@ -42,7 +42,7 @@
 * [18 房间和镜头移动之２](chapter6/18.md)
 * [19 房间和镜头移动之３](chapter6/19.md)
 
-## 加入些更深入的功能 <a id="chapter7"></a>
+## 还有些更深入的功能 <a id="chapter7"></a>
 
 * [20 制作一个自己的人物](chapter7/20.md)
 * [21 镜　　　　　　　厅](chapter7/21.md)
