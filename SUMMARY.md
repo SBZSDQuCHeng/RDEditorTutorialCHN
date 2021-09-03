@@ -16,25 +16,26 @@
 * [05 二拍子一定要加护士](chapter2/05.md)
 * [06 长按让节奏颇具动感](chapter2/06.md)
 
-## 画面有字就是不一样 <a id="chapter3"></a>
+## 浮动文字和显示对话 <a id="chapter3"></a>
 
 * [07 给歌曲加上同步歌词](chapter3/07.md)
 * [08 让角色在歌里聊起来](chapter3/08.md)
 
-## 轨道相关的各种设计 <a id="chapter4"></a>
+## 各种各样的轨道特效 <a id="chapter4"></a>
 
 * [09 轨道移动可大有学问](chapter4/09.md)
 * [10 配合场景初始化轨道](chapter4/10.md)
 * [11 轨道和画面互相照应](chapter4/11.md)
 
-## 整体的节奏设计思路
+## 节奏，音效以及提示 <a id="zheng-ti-de-jie-zou-she-ji-si-lu"></a>
 
 * [12 多轨并行绝对不能乱](zheng-ti-de-jie-zou-she-ji-si-lu/12.md)
 * [13 循规蹈矩或自创节奏](zheng-ti-de-jie-zou-she-ji-si-lu/13.md)
 * [14 为何总被说读谱不能](zheng-ti-de-jie-zou-she-ji-si-lu/14.md)
 * [15 如何让音效融入音乐](zheng-ti-de-jie-zou-she-ji-si-lu/15.md)
+* [22 考虑一下无障碍模式](zheng-ti-de-jie-zou-she-ji-si-lu/22.md)
 
-## 镜头语言是特效精华 <a id="chapter6"></a>
+## 房间特效和镜头特效 <a id="chapter6"></a>
 
 * [16 房间究竟该如何理解](chapter6/16.md)
 * [17 房间和镜头移动之１](chapter6/17.md)
@@ -45,7 +46,6 @@
 
 * [20 制作一个自己的人物](chapter7/20.md)
 * [21 镜　　　　　　　厅](chapter7/21.md)
-* [22 考虑一下无障碍模式](chapter7/22.md)
 * [23 干扰图可以如何设计](chapter7/23.md)
 * [24 如何整理一大堆事件](chapter7/24.md)
 * [25 像咖啡之歌一样乱窜](chapter7/25.md)
